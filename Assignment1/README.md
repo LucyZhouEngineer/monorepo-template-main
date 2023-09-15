@@ -19,7 +19,7 @@
 See the folders [part1](./part1) for this assignment.
 
 # Rubric
- 
+
   <table>
   <tbody>
     <tr>
