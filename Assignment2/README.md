@@ -4,7 +4,7 @@
 - How many hours did it take you to complete this assignment? 6h
 - Did you collaborate with any other students/TAs/Professors? no
 - Did you use any external resources? (Cite them below)
-  - tbd
+  - https://www.w3schools.com/python/python_json.asp
   - tbd
 - (Optional) What was your favorite part of the assignment?
 - (Optional) How would you improve the assignment?
