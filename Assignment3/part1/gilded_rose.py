@@ -89,9 +89,3 @@ class GildedRose(object):
     #             else:
     #                 if item.quality < 50:
     #                     item.quality = item.quality + 1
-
-    #         if "Conjured" in item.name:
-    #             if item.quality > 0:
-    #                 item.quality = item.quality - 2
-    #                 if item.sell_in <= 0:
-    #                     item.quality = item.quality - 2
