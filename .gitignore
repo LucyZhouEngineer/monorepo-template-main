@@ -15,3 +15,10 @@
 # Ignore temporary files
 .tmp
 .temp
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+
