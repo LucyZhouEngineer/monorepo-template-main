@@ -24,10 +24,10 @@ class GildedRoseTest(unittest.TestCase):
         self.assertEquals(4, items[0].quality)
 
     def test_Conjured_item_after_sellby(self):
-        items = [Item("Conjured Mana Cake", 0, 6)]
+        items = [Item("Conjured Mana Cake", 0, 8)]
         gilded_rose = GildedRose(items)
         gilded_rose.update_quality()
-        self.assertEquals(2, items[0].quality)
+        self.assertEquals(4, items[0].quality)
 
     def test_Backstage_passes_increase(self):
         items = [Item("Backstage passes to a TAFKAL80ETC concert", 14, 22)]
