@@ -15,11 +15,11 @@
 **Preconditions**: The program must be running and in a responsive state.
 
 **Trigger**: (1) Pressing the escape key. (2) Hitting the 'x' in the titlebar if avilable.
-  
+
 **Scenario 1**: A user will press the escape key when they are done painting.
 
 **Scenario 2**: A user will drag their mouse to the top-right corner of the titlebar and left-click to exit the program.
- 
+
 **Exceptions**: The program may become potentially unresponsive. In this case, the program can be terminated from the operating system.
 
 **Priority**: High-priority.
@@ -35,7 +35,6 @@
 **Open Issues**: We may need to implement 'saving' functionality in the future, and revise this use case to prompt a user with a save dialog before exiting.
 
 <hr>
-
 
 (adapted by Pressman and Maxim, Software Engineering: A Practitioner’s Approach, pp. 151-152, from Cockburn,
 A., Writing Effective Use-Cases, Addison-Wesley, 2001)

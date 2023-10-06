@@ -6,35 +6,33 @@
 
 <hr>
 
-**Use Case**: *use-case-title*
+**Use Case**: _set canvas size_
 
-**Primary Actor**: *primary-actor*
+**Primary Actor**: _user_
 
-**Goal in Context**: *the aim of the primary-actor in a particular circumstance*
+**Goal in Context**: *set the convas size to 600*400.\*
 
-**Preconditions**: *conditions that must be true before the scenario may play out*
+**Preconditions**: _the program has started._
 
-**Trigger**: *an action or actions that initiate the scenario*
-  
-**Scenario**: *an enumerated list of steps describing the actions and interactions of the primary actor with the system*
- 
-**Exceptions**: *errors or faults that may occur during the scenario. Should include remedy/corrective action taken by the primary actor*
+**Trigger**: _on program initiation_
 
-**Priority**: *relative importance of this use case compared to other use cases*
+**Scenario**: *when the user starts the program, the drawable canvas size should be 600*400.\*
 
-**When available**: *the targeted release that covers this use case*
+**Exceptions**: _N/A_
 
-**Channel to actor**: *the means through which the primary actor and the system communicate*
+**Priority**: _high_
 
-**Secondary Actor**: *any other actors – people or systems – that may be involved in the scenario*
+**When available**: _first release_
 
-**Channels to Secondary Actors**: *the means through which any secondary actors may interact with the system or other actors*
+**Channel to actor**: _through user interface and display_
 
-**Open Issues**: *notes, concerns, or other materials*
+**Secondary Actor**: _N/A_
+
+**Channels to Secondary Actors**: _N/A_
+
+**Open Issues**: _ensure the canvas fits the window._
 
 <hr>
-
-
 
 (adapted by Pressman and Maxim, Software Engineering: A Practitioner’s Approach, pp. 151-152, from Cockburn,
 A., Writing Effective Use-Cases, Addison-Wesley, 2001)

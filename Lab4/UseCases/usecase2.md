@@ -6,35 +6,33 @@
 
 <hr>
 
-**Use Case**: *use-case-title*
+**Use Case**: _change color_
 
-**Primary Actor**: *primary-actor*
+**Primary Actor**: _user_
 
-**Goal in Context**: *the aim of the primary-actor in a particular circumstance*
+**Goal in Context**: _change the drawing color by pressing a number key._
 
-**Preconditions**: *conditions that must be true before the scenario may play out*
+**Preconditions**: _the program is running._
 
-**Trigger**: *an action or actions that initiate the scenario*
-  
-**Scenario**: *an enumerated list of steps describing the actions and interactions of the primary actor with the system*
- 
-**Exceptions**: *errors or faults that may occur during the scenario. Should include remedy/corrective action taken by the primary actor*
+**Trigger**: _user presses a number between 1-8._
 
-**Priority**: *relative importance of this use case compared to other use cases*
+**Scenario**: _the program should change the drawing color based on the pressed number._
 
-**When available**: *the targeted release that covers this use case*
+**Exceptions**: _no action should be taken if the user presses any other number._
 
-**Channel to actor**: *the means through which the primary actor and the system communicate*
+**Priority**: _medium_
 
-**Secondary Actor**: *any other actors – people or systems – that may be involved in the scenario*
+**When available**: _first release_
 
-**Channels to Secondary Actors**: *the means through which any secondary actors may interact with the system or other actors*
+**Channel to actor**: _keyboard_
 
-**Open Issues**: *notes, concerns, or other materials*
+**Secondary Actor**: _N/A_
+
+**Channels to Secondary Actors**: _N/A_
+
+**Open Issues**: _it would be better to provide more color options._
 
 <hr>
-
-
 
 (adapted by Pressman and Maxim, Software Engineering: A Practitioner’s Approach, pp. 151-152, from Cockburn,
 A., Writing Effective Use-Cases, Addison-Wesley, 2001)
