@@ -1,3 +1,7 @@
+The user story of "Send Money":
+
+One-line description:
+
 As a PayPal user, I can send money to other people, so that I can transfer money conveniently.
 
 Acceptance Criteria:
