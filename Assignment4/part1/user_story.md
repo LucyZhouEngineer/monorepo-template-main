@@ -1,6 +1,4 @@
-As a <role> I can <capability>, so that <receive benefit>
-
-As a PayPal user, I can send money to other people so that I can transfer money conveniently.
+As a PayPal user, I can send money to other people, so that I can transfer money conveniently.
 
 Acceptance Criteria:
 
