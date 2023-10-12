@@ -1,20 +1,20 @@
 # Writing Stories
 
-There are many ways to elicit customer requirements during the [requirements analysis](https://en.wikipedia.org/wiki/Requirements_analysis) phase of the SDLC. 
+There are many ways to elicit customer requirements during the [requirements analysis](https://en.wikipedia.org/wiki/Requirements_analysis) phase of the SDLC.
 [Use cases](https://en.wikipedia.org/wiki/Use_case) are a common tool in software engineering to identify requirements in a software system. For example, recall the user stories we had to
-create for a making a Paint web application. 
+create for a making a Paint web application.
 
-But use cases are not the only tool for requirements analysis. Another popular tool from Agile development is [user stories](https://en.wikipedia.org/wiki/User_story). 
-User stories follow a general template: 
+But use cases are not the only tool for requirements analysis. Another popular tool from Agile development is [user stories](https://en.wikipedia.org/wiki/User_story).
+User stories follow a general template:
 
-* One-line description
-* Acceptance Criteria
+- One-line description
+- Acceptance Criteria
 
 The one-line description follows this form:
 
 `As a <role> I can <capability>, so that <receive benefit>`
 
-Acceptance Criteria define the conditions that need to be met for a user story to be considered complete and accepted by the product owner or stakeholders. 
+Acceptance Criteria define the conditions that need to be met for a user story to be considered complete and accepted by the product owner or stakeholders.
 Acceptance criteria provide a detailed and testable description of what the user story should accomplish and serve as a way to ensure that the development team and stakeholders have a shared understanding of the story's requirements.
 
 1. Specificity: Acceptance criteria should be specific and unambiguous, leaving no room for interpretation. They should be clear enough that both the development team and stakeholders understand what is expected.
@@ -45,8 +45,8 @@ https://www.easyagile.com/training/writing-good-user-stories.pdf
 
 # Task 0
 
-Go to www.paypal.com and explore the features and services of that platform. Choose one of their services such as Digital Wallet, Send Money, Sign Up, or Pay Bills and create a User Story based 
-on that feature or service. Your user story should follow the template mentioned above.  
+Go to www.paypal.com and explore the features and services of that platform. Choose one of their services such as Digital Wallet, Send Money, Sign Up, or Pay Bills and create a User Story based
+on that feature or service. Your user story should follow the template mentioned above.
 
 # Submission/Deliverables
 
@@ -59,4 +59,4 @@ on that feature or service. Your user story should follow the template mentioned
 ### Deliverables
 
 - Task 0
-	- Write your user story in the file `user_story.md` in the folder [part1](./part1)
+  - Write your user story in the file `user_story.md` in the folder [part1](./part1)
