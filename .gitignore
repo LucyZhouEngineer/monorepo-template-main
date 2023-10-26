@@ -21,3 +21,10 @@ __pycache__/
 __pycache__
 *.pyc
 *.pyo
+
+myenv/
+
+*.egg-info/
+dist/
+build/
+
